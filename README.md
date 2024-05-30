@@ -10,7 +10,7 @@
 
 Software engineer from 🇨🇱 
 
-- 🔭 I’m currently working on my personal tech blog for learning interesting and to share the knowledge.
+- 🔭 I’m currently working on my personal tech blog to learn and share the knowledge.
 
 ⚡ Fun facts:
   - I'm learning japanese 🧑‍🎓
